@@ -1,7 +1,7 @@
 {
   "name": "grunt-js-modularize",
   "description": "Turn JSON files into JavaScript ES6 modules.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/owilliams/grunt-js-modularize",
   "author": {
     "name": "Owain Williams"
